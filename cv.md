@@ -10,6 +10,11 @@
 
 ### About me:
 
+I’m interested in Web Development because it is interesting and provides huge possibilities for professional growth.  
+
+My core strengths are sociability and fast learning. I'm reliable person and an excellent team worker, love to explore the world, meet new cultures and people.
+
+I believe, that my ability to learn  will lead me through this path of becoming a proficient Frontend Developer.
 
 ### Skills:
 *   HTML
