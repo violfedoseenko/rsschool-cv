@@ -26,7 +26,17 @@ I believe, that my ability to learn  will lead me through this path of becoming 
 
 ### Code example:
 ```
-cod example
+function getCount(str) {
+    var vowelsCount = 0;
+  
+    const vowels = ['a','e','i','o','u'];
+    for ( let i of str ) {
+        if (vowels.includes(i)) {
+        vowelsCount +=1;
+        }
+    } 
+    return vowelsCount;
+}
 ```
 ### Education :
 * Kuban State University / Physics and Technology Faculty (specialist)
